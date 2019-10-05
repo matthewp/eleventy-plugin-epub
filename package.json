@@ -1,0 +1,23 @@
+{
+  "name": "@matthewp/eleventy-plugin-epub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewp/eleventy-plugin-epub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthewp/eleventy-plugin-epub/issues"
+  },
+  "homepage": "https://github.com/matthewp/eleventy-plugin-epub#readme",
+  "dependencies": {
+    "nunjucks": "^3.2.0"
+  }
+}
