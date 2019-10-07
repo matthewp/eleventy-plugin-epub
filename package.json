@@ -1,6 +1,6 @@
 {
   "name": "@matthewp/eleventy-plugin-epub",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A plugin for creating epubs",
   "main": "lib/index.js",
   "scripts": {
