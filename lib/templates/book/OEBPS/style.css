@@ -27,3 +27,26 @@ hr {
   border-bottom: 1px solid #dedede;
   margin: 60px 10%;
 }
+
+.magazine .h1 {
+  font-size: 125%;
+  text-align: center;
+}
+
+.magazine #toc a,
+.magazine #toc a:visited {
+  color: inherit;
+}
+
+.magazine #toc .title {
+  font-size: 125%;
+  font-weight: 500;
+}
+
+.magazine .table-of-content {
+  text-align: center;
+}
+
+.magazine .table-of-content .story {
+  margin-bottom: 1em;
+}
